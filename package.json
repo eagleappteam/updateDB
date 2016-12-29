@@ -1,0 +1,28 @@
+{
+  "name": "updateDB",
+  "version": "1.0.0",
+  "description": "Interface de atualização do Bando de Dados",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eagleappteam/updateDB.git"
+  },
+  "author": "EagleApp Developers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eagleappteam/updateDB/issues"
+  },
+  "homepage": "https://github.com/eagleappteam/updateDB",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "consign": "^0.1.2",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "express-load": "^1.1.15",
+    "mongoose": "^4.7.4",
+    "nodemon": "^1.11.0"
+  }
+}

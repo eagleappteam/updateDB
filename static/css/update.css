@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.space{
+    padding: 2em;
+}
+
+h3{
+    font-size: 3em;
+}
+
+label, input{
+    width : 100%;
+}

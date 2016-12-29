@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body{
+    font-size : 16px;
+
+}
+.row{
+    margin : 0;
+}
+
+.nav-bar{
+
+}
+
+.header ul{
+
+}
+.header ul li{
+    list-style: none;
+    display: inline;
+    float: right;
+    padding: 1.5em;
+}
+.header ul li:nth-child(1){
+    float: left;
+}
+
+.content-services ul{
+
+}
+.content-services ul li{
+    list-style: none;
+}
+
+.card-service{
+    border: solid;
+padding: 5em 0em;
+border-width: 1px;
+border-color: #c5c5c5;
+border-radius: 3px;
+}
